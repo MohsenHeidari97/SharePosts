@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a753da8-46c4-4cb6-b6cd-61d2b584c0c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/SharePost.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/SharePostProd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/config/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/Pages.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/Posts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/Users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/helpers/session_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/helpers/url_helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libraries/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libraries/Core.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libraries/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/Post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/inc/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/inc/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/inc/navbar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/pages/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/pages/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/posts/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/posts/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/posts/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/posts/show.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/users/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/users/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23C81scMyPOGQPM37pxKBkwCWXF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a753da8-46c4-4cb6-b6cd-61d2b584c0c4" name="Default Changelist" comment="" />
+      <created>1641226497084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641226497084</updated>
+      <workItem from="1641226498130" duration="356000" />
+      <workItem from="1641287379051" duration="16730000" />
+      <workItem from="1641375156844" duration="18772000" />
+      <workItem from="1641470365366" duration="5674000" />
+      <workItem from="1641553049517" duration="17044000" />
+      <workItem from="1641632820774" duration="3484000" />
+      <workItem from="1641648073328" duration="62000" />
+      <workItem from="1641648136654" duration="9683000" />
+      <workItem from="1641720679596" duration="604000" />
+      <workItem from="1641737483607" duration="420000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1641648211212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1641648211212" />
+    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1641573803142">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1641573803142" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1641298274749">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1641298274749" />
+  </component>
+</project>
